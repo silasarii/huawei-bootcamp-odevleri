@@ -1,2 +1,2 @@
 # Python
-Huawei Student Developers Python eğitimindeki ödevler yer almaktadır
+Huawei Student Developers Python eğitimindeki çalışmalar yer almaktadır
