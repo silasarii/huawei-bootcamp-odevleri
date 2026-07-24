@@ -1,2 +1,2 @@
-# Python
-Huawei Student Developers Python eğitimindeki çalışmalar yer almaktadır
+# Yapay Zeka için Python
+Yapay Zeka için Python eğitimindeki çalışmalar yer almaktadır
