@@ -1,4 +1,4 @@
-# 🐍 Python Programlama Temelleri ve Uygulamaları
+# 🐍 Python Temelleri ve Uygulamaları
 
 Bu klasör, **Huawei Student Developers** ve **Türkiye Yapay Zeka Akademisi** iş birliğiyle düzenlenen Veri Bilimi ve Makine Öğrenmesi Bootcamp'inin 1. haftası kapsamında tamamlanan Python ödevlerini, mini projeleri ve temel veri bilimi kütüphaneleri uygulamalarını içermektedir.
 
