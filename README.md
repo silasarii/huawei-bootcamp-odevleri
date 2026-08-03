@@ -74,13 +74,21 @@ Bootcamp bitiminde, öğrenilen konuların pratiğe dökülmesi amacıyla hazır
 
 ```text
 .
-├── 1-Hafta-Python-Temelleri/
-│   ├── odev1.ipynb
-│   └── ogr_not_analizi.py
-├── 2-Hafta-Veri-Bilimi/
-│   ├── eda_calismasi.ipynb
-│   └── data/
-├── 3-Hafta-Makine-Ogrenmesi/
-│   ├── model_egitimi.ipynb
-│   └── metrics_analysis.ipynb
+├── Python/
+│   ├── 02_temel_yapilar_odev.ipynb
+│   ├── 03_donguler_kontrol_yapilari_odev.ipynb
+│   ├── 04_fonksiyonlar_mini_proje.ipynb
+│   ├── 05_dosya_islemleri_odev.ipynb
+│   ├── 06_hata_yonetimi_mini_proje.ipynb
+│   ├── 08_numpy_odev.ipynb
+│   ├── 09_pandas_odev.ipynb
+│   ├── 10_matplotlib_odev.ipynb
+│   ├── 11_nesne_yonelimli_mini_proje.ipynb
+│   ├── 12_ogrenci_not_analizi_projesi.ipynb
+│   └── README.md
+├── Veri-Bilimi/
+│   ├── ara_odev.ipynb
+│   └── README.md
+├── Makine-Ogrenmesi/
+│   └── README.md
 └── README.md
