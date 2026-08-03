@@ -66,7 +66,7 @@ Bootcamp bitiminde, öğrenilen konuların pratiğe dökülmesi amacıyla hazır
 3. Veri Ön İşleme ve Model Eğitimi
 4. Model Sonuçlarının Değerlendirilmesi ve İletimi
 
-✍️ *Final projesi kapsamında yayınlanan Medium makalesine **[Buradan Ulaşabilirsiniz (Linkinizi Ekleyin)](#)**.*
+✍️ *Final projesi kapsamında yayınlanan Medium makalesine **Buradan Ulaşabilirsin (Yakında)**.*
 
 ---
 
