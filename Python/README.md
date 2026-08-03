@@ -30,4 +30,3 @@ Aşağıda klasör içerisinde yer alan Jupyter Notebook dosyaları ve içerdiğ
 - **Pandas:** Veri analizi ve manipülasyonu.
 - **Matplotlib:** Veri görselleştirme ve grafik oluşturma.
 
----
