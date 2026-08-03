@@ -92,3 +92,9 @@ Bootcamp bitiminde, öğrenilen konuların pratiğe dökülmesi amacıyla hazır
 ├── Makine-Ogrenmesi/
 │   └── README.md
 └── README.md
+```
+---
+
+### 👤 Sıla Sarı
+🎓 **Dokuz Eylül Üniversitesi - Ekonometri**     
+**LinkedIn:** www.linkedin.com/in/sıla-sarı
