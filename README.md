@@ -88,6 +88,7 @@ Bootcamp bitiminde, öğrenilen konuların pratiğe dökülmesi amacıyla hazır
 │   └── README.md
 ├── Veri-Bilimi/
 │   ├── ara_odev.ipynb
+│   ├── final_odevi.ipynb
 │   └── README.md
 ├── Makine-Ogrenmesi/
 │   └── README.md
