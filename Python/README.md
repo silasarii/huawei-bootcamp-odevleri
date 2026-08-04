@@ -26,7 +26,7 @@ Aşağıda klasör içerisinde yer alan Jupyter Notebook dosyaları ve içerdiğ
 ## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
 
 - **Python**
-- **NumPy:** Hızlı ve etkili matris/dizi operasyonları.
-- **Pandas:** Veri analizi ve manipülasyonu.
-- **Matplotlib:** Veri görselleştirme ve grafik oluşturma.
+- **NumPy:** Hızlı ve etkili matris/dizi operasyonları
+- **Pandas:** Veri analizi ve manipülasyonu
+- **Matplotlib:** Veri görselleştirme ve grafik oluşturma
 
